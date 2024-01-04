@@ -1,5 +1,6 @@
 ## Introduction
-This repository motivates to introduce some Rust basics, in particular the complex Rust grammar.
+This repository motivates to shortly introduce some Rust basics due to Rust's complex syntax.
 
 <br>
 
+ 
