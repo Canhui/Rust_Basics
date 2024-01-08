@@ -1,13 +1,18 @@
 use std::convert::From;
-
 #[derive(Debug)]
+
+/* 
+A Brief Introduction:
+    1. From one data type to another data type
+*/
 struct Number{
-    value: i32
+    value_a: i32,
+    value_b: i32,
 }
 
 impl From<i32> for Number{
-    fn from(item: i32) -> Self{
-        Number{value: item}
+    fn from(item_1: i32) -> Self{
+        Number{value_a: item_1, value_b: item_1}
     }
 }
 

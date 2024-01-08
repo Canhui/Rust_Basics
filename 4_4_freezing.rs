@@ -1,3 +1,7 @@
+/* 
+A Brief Introduction:
+    1. Usage of rust mutable variables
+*/ 
 fn main(){
     let mut _mutable_integer = 7i32;
     {

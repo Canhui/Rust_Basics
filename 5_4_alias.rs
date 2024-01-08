@@ -1,3 +1,7 @@
+/* 
+A Brief Introduction:
+    1. Usage of rust alias.
+*/
 type NanoSecond = u64;
 type Inch = u64;
 type U64 = u64;

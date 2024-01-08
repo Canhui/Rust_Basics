@@ -1,3 +1,7 @@
+/* 
+A Brief Introduction:
+    1. Usage of rust binding variables
+*/ 
 fn main(){
     let a_binding;
     let x = 2;
