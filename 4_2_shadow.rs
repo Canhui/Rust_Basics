@@ -1,3 +1,7 @@
+/* 
+A Brief Introduction:
+    1. Usage of rust shadowed variables
+*/ 
 fn main(){
     let shadowed_binding = 1;
     

@@ -1,3 +1,7 @@
+/* 
+A Brief Introduction:
+    1. Usage of rust operations +, -, &&, ||, &, |, ^, <<, >>
+*/ 
 fn main(){
     println!("1+2 = {}", 1u32+2);
     println!("1-2 = {}", 1i32-2);

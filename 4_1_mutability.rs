@@ -1,3 +1,7 @@
+/* 
+A Brief Introduction:
+    1. Usage of rust mutability variables
+*/ 
 fn main(){
     let immutable_binding = 1; // cannot mutate it
     let mut mutable_binding = 1; // mutate it

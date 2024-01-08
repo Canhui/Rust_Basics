@@ -1,4 +1,9 @@
 #[derive(Debug)]
+
+/* 
+A Brief Introduction:
+    1. Usage of rust structure
+*/ 
 struct Person{
     name: String,
     age: u8
