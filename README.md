@@ -3,11 +3,6 @@ This repository motivates to briefly introduce some Rust basics due to Rust's co
 
 <br>
 
-## Acknowledgement
-
-This repo was donw when working with ASTRI Security Lan, Hong Kong Applied Science and Technology Research Institute.
-
-<br>
 
 ## Long-Term Support (LTS) Log
 
